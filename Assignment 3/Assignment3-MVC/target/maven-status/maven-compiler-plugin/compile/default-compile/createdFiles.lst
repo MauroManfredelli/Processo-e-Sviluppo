@@ -1,0 +1,8 @@
+it\assignment3\controller\IndexController.class
+it\assignment3\controller\ErrorHandler.class
+it\assignment3\model\SessionUser.class
+it\assignment3\controller\UserController.class
+it\assignment3\service\UserService.class
+it\assignment3\model\User.class
+it\assignment3\model\Role.class
+it\assignment3\service\UserService$1.class

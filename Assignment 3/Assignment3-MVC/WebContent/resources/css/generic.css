@@ -1,0 +1,33 @@
+body {
+  background-color: #eee; }
+
+label.error {
+  color: red;
+  font-weight: bold;
+  font-size: 14px !important; }
+
+.form-group {
+  margin-bottom: 0px; }
+  
+.center {
+  text-align: center; }
+
+.error2 {
+  border: 2px solid red; }
+.error2::placeholder {
+  color: red; }
+  
+.show {
+  background: rgba(0, 0, 0, 0.22); }
+  
+.filter {
+  -webkit-filter: brightness(0) invert(1);
+  filter: brightness(0) invert(1); }
+  
+.footer {
+	background-color: #222;
+	color: white; }
+	
+.footer .container div {
+	margin-top: 20px;
+	margin-bottom: 20px; }
